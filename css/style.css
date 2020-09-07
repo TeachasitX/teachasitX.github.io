@@ -231,9 +231,9 @@ main .site-title .site-background{
 }
 .home__img{
   position: absolute;
-  right: 15%;
+  right: 0%;
   bottom: 0;
-  width: 1280px;
+  width: 295px;
   
 }
 
@@ -478,9 +478,8 @@ main .site-title .site-background{
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 500px;
+    width: 457px;
     bottom: 15%;
-    right: 15%;
   }
 
   .about__container, .skills__container{
